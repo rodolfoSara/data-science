@@ -1,3 +1,4 @@
 
 RandomForestClassifier
 classification and regression
+ensemble of many decision trees,

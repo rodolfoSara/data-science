@@ -1,1 +1,1 @@
-
+web scraping with pandas read html and with the tool beautifull soup

@@ -1,1 +1,0 @@
-scrapping works, with read html of pandas a beautifull soup 
